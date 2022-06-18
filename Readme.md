@@ -1,11 +1,6 @@
 ### Hi Gilbert here 👋
 
-### 💻 Web Developer ☁
-
-- 🔎 I'm currently learning React and Flutter.
-- 📘 I'm currently learning more about web dev. 
-- 💭 Ask me about to be a web dev.
-- 🎮 I love videogames.
+### 💻 Web / Mobile Developer ☁
 
 ---
 
